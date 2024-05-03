@@ -5,7 +5,7 @@ On average, for fellows who stay with us after their free trial period, it takes
 
 **"The main goal of your analysis is to derive insights around if a fellow will ultimately be placed at a company and how long until a placement can be expected."**
 
-Visit the pathrise website to read more about this project: Pathrise Official Website
+Visit the pathrise website to read more about this project: [Pathrise Official Website](https://www.pathrise.com/)
 
 **Pathrise Objectives**
 
