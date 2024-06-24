@@ -9,8 +9,8 @@ Visit the pathrise website to read more about this project: [Pathrise Official W
 
 
 This project consists of following stages:       
-1.Importing all necessary packages       
-2.Gaining insight into the dataset        
-3.Preprocessing        
-4.Applying classification models      
-5.Applying regression models
+1. Importing all necessary packages       
+2. Gaining insight into the dataset        
+3. Preprocessing        
+4. Applying classification models      
+5. Applying regression models
